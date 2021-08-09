@@ -1,4 +1,4 @@
-# Minecraft-Overworld-Viewer
+# Minecraft Overworld Viewer
 Free application capable of loading all the region files (.mca) of any Minecraft world and it's selected dimension and export all of them as 5 different image types of 512 x 512 pixels.
 
 Then it can load all those images and join them into a single massive image to view the full world at once. It's highly suggested to use "IrfanView 64-bit", since after several tests is the only free tool that can load even the biggest images without any error.
