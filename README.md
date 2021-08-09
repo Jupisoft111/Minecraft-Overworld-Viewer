@@ -1,6 +1,6 @@
 # Minecraft Overworld Viewer
 
-Note: to download either the executable or the full source codee go to the releases tab and there click on the files with a full date and time followed by "_EXE" for the executable or "_Source" for the full source (which also has a precompiled executable).
+Note: to download either the executable or the full source code go to the releases tab and there click on the files with a full date and time followed by "_EXE" for the executable or "_Source" for the full source code (which also comes with a precompiled executable).
 
 Free application capable of loading all the region files (.mca) of any Minecraft world and it's selected dimension and export all of them as 5 different image types of 512 x 512 pixels.
 
